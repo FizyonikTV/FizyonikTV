@@ -65,8 +65,8 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fizyoniktv&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="fizyoniktv stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fizyoniktv&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="top langs" height="165" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fizyoniktv&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="fizyoniktv stats" height="165" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=fizyoniktv&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="top langs" height="165" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fizyoniktv&theme=tokyonight&hide_border=true" alt="streak" />
