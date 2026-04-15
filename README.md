@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fizyoniktv&label=Profile%20views&color=d1a2e2&style=flat" alt="fizyoniktv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fizyoniktv" alt="fizyoniktv" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/gemremurat" target="blank"><img src="https://img.shields.io/twitter/follow/gemremurat?logo=twitter&style=for-the-badge" alt="gemremurat" /></a> </p>
 
 - 🔭 I’m currently working on [Lunaris Discord Bot](https://github.com/FizyonikTV/discord-bot)
