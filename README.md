@@ -1,61 +1,157 @@
 <div align="center">
-  <h1>Hi, I'm Emre!</h1>
-  <h3>Full Stack Developer (Mostly Python, Lua & C#)</h3>
-  <p><i>dreaming in monochrome</i></p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=fizyoniktv&label=Profile%20views&color=111111&style=for-the-badge" alt="fizyoniktv" />
-  </p>
 
-  <p>
-    <a href="https://discord.gg/lunarisdc" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="https://twitter.com/gemremurat" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="https://linkedin.com/in/gemremurat" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://instagram.com/gemremurat" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://www.youtube.com/c/eonjinwoo" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
-  </p>
+# 👋 Hi, I'm Emre Murat Girgin
+
+### Software Developer • AI Enthusiast • Educational Technology Researcher
+
+<p><i>Building intelligent software that combines modern technology with education.</i></p>
+
+<img src="https://komarev.com/ghpvc/?username=fizyoniktv&label=Profile%20Views&color=111111&style=for-the-badge" />
+
+<br><br>
+
+<a href="https://github.com/FizyonikTV">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://fizyoniktv.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:gemremurat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/lunarisdc">
+    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
 </div>
 
-<br>
+---
 
-### ⚡ Quick Facts
-- 🔭 I’m currently working on **[Lunaris Discord Bot](https://github.com/FizyonikTV/discord-bot)**
-- 🌱 I’m currently learning **C++** (and developing with .NET/C#)
-- 👨‍💻 All of my projects are available at **[fizyoniktv.github.io](https://fizyoniktv.github.io)**
-- 💬 Ask me about **Python, JS, C# and Lua**
-- 📫 How to reach me: **[gemremurat@gmail.com](mailto:gemremurat@gmail.com)**
+# 🚀 About Me
 
-<br>
+I'm a software developer passionate about **Artificial Intelligence, Educational Technologies, Web Development and Automation Systems**.
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+My background in education allows me to design software that is not only technically powerful but also user-centered and educational.
+
+Currently I build:
+
+- 🤖 AI-powered applications
+- 🌐 Modern web platforms
+- 📱 Mobile applications
+- 🎮 Unity multiplayer projects
+- ⚙️ Automation systems & Discord bots
+- 🎓 Learning Management Systems (LMS)
+
+---
+
+# 💼 Featured Projects
+
+### 🧠 Lunaris AI
+AI-powered student coach that provides personalized academic guidance using modern AI technologies.
+
+### 💻 LunarisAgent
+A customizable desktop AI assistant written in Python with Wake Word support.
+
+### 🎓 İlkay LMS
+A complete Learning Management System developed for modern education.
+
+### 📱 IBen English
+Android application focused on English learning.
+
+### 🛒 E-Commerce Platforms
+Custom PHP/XAMPP based e-commerce infrastructures with advanced admin panels.
+
+### 🤖 Discord Systems
+Large-scale moderation, economy and automation bots.
+
+### 🏆 SmartWrite
+Educational Technology project developed for **TEKNOFEST 2025**.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cs,php,js,html,css,mysql"/>
+
+</p>
+
+### Frameworks & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=unity,git,github,vscode,visualstudio"/>
+
+</p>
+
+### Other Technologies
+
+- Artificial Intelligence
+- Automation Systems
+- Educational Technologies
+- LMS Development
+- Discord API
+- REST APIs
+- XAMPP
+- MySQL
+- Hardware Optimization
+
+---
+
+# 📚 Education
+
+🎓 **M.Sc. Educational Technologies**  
+Gazi University *(Current)*
+
+🎓 **Elementary Education**  
+Afyon Kocatepe University
+
+🎓 **Computer Engineering** *(Former)*  
+Kocaeli University
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fizyoniktv&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizyoniktv&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fizyoniktv&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Contact
+
+📧 **Email**
+> gemremurat@gmail.com
+
+🌐 **Portfolio**
+> https://fizyoniktv.github.io
+
+💻 **GitHub**
+> https://github.com/FizyonikTV
+
+---
+
 <div align="center">
-<a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a><a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
+
+### "Building software that makes technology smarter and education better."
+
+⭐ Thanks for visiting my profile!
+
 </div>
-
-<br>
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fizyoniktv&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="fizyoniktv stats" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fizyoniktv&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://ko-fi.com/fizyonik">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" />
-  </a>
-</p>
