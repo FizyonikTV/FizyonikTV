@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Emre Murat Girgin
+# 👋 Merhaba, ben Emre Murat Girgin.
 
-### Software Developer • AI Enthusiast • Educational Technology Researcher
+### Yazılım Geliştirici • Yapay Zeka Meraklısı • Eğitim Teknolojileri Araştırmacısı
 
-<p><i>Building intelligent software that combines modern technology with education.</i></p>
+<p><i>Modern teknolojiyi eğitimle birleştiren akıllı yazılımlar geliştiriyorum.</i></p>
 
 <img src="https://komarev.com/ghpvc/?username=fizyoniktv&label=Profile%20Views&color=111111&style=for-the-badge" />
 
@@ -30,51 +30,50 @@
 
 ---
 
-# 🚀 About Me
+# 🚀 Hakkımda
 
-I'm a software developer passionate about **Artificial Intelligence, Educational Technologies, Web Development and Automation Systems**.
+Ben **Yapay Zeka, Eğitim Teknolojileri, Web Geliştirme ve Otomasyon Sistemleri** konularına tutkuyla bağlı bir yazılım geliştiriciyim.
 
-My background in education allows me to design software that is not only technically powerful but also user-centered and educational.
+Eğitim geçmişim sayesinde hem teknik açıdan güçlü hem de kullanıcı odaklı ve eğitici yazılımlar tasarlayabiliyorum.
 
-Currently I build:
+Şu anda şunları geliştiriyorum:
 
-- 🤖 AI-powered applications
-- 🌐 Modern web platforms
-- 📱 Mobile applications
-- 🎮 Unity multiplayer projects
-- ⚙️ Automation systems & Discord bots
-- 🎓 Learning Management Systems (LMS)
+- 🤖 Yapay zeka destekli uygulamalar
+- 🌐 Modern web platformları
+- 📱 Mobil uygulamalar
+- ⚙️ Otomasyon sistemleri ve Discord botları
+- 🎓 Öğrenme Yönetim Sistemleri (LMS)
 
 ---
 
-# 💼 Featured Projects
+# 💼 Öne Çıkan Projeler
 
 ### 🧠 Lunaris AI
-AI-powered student coach that provides personalized academic guidance using modern AI technologies.
+Modern yapay zeka teknolojilerini kullanarak kişiselleştirilmiş akademik rehberlik sunan, yapay zeka destekli öğrenci koçu.
 
 ### 💻 LunarisAgent
-A customizable desktop AI assistant written in Python with Wake Word support.
+Uykudan uyandırma kelimesi desteğine sahip, Python ile yazılmış, özelleştirilebilir masaüstü yapay zeka asistanı.
 
 ### 🎓 İlkay LMS
-A complete Learning Management System developed for modern education.
+Modern eğitim için geliştirilmiş eksiksiz bir Öğrenme Yönetim Sistemi (LMS).
 
-### 📱 IBen English
-Android application focused on English learning.
+### 📱 IBen Language
+İngilizce ve Almanca öğrenimine odaklanmış Android uygulaması.
 
-### 🛒 E-Commerce Platforms
-Custom PHP/XAMPP based e-commerce infrastructures with advanced admin panels.
+### 🛒 E-Ticaret Platformları
+Gelişmiş yönetim panellerine sahip, PHP/XAMPP tabanlı özel e-ticaret altyapıları.
 
-### 🤖 Discord Systems
-Large-scale moderation, economy and automation bots.
+### 🤖 Discord Sistemleri
+Büyük ölçekli moderasyon, ekonomi ve otomasyon botları.
 
 ### 🏆 SmartWrite
-Educational Technology project developed for **TEKNOFEST 2025**.
+**TEKNOFEST 2025** için geliştirilmiş Eğitim Teknolojileri projesi.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Teknolojik Altyapı
 
-### Languages
+### Yazılım Dilleri
 
 <p>
 
@@ -82,7 +81,7 @@ Educational Technology project developed for **TEKNOFEST 2025**.
 
 </p>
 
-### Frameworks & Tools
+### Teknolojiler ve Araçlar
 
 <p>
 
@@ -90,32 +89,20 @@ Educational Technology project developed for **TEKNOFEST 2025**.
 
 </p>
 
-### Other Technologies
+### Diğer Teknolojiler
 
-- Artificial Intelligence
-- Automation Systems
-- Educational Technologies
-- LMS Development
+- Yapay Zeka
+- Otomasyon Sistemleri
+- Eğitim Teknolojileri
+- LMS (Öğrenme Yönetim Sistemi) Geliştirme
 - Discord API
-- REST APIs
+- REST API'ler
 - XAMPP
 - MySQL
-- Hardware Optimization
+- Donanım Optimizasyonu
 
 ---
 
-# 📚 Education
-
-🎓 **M.Sc. Educational Technologies**  
-Gazi University *(Current)*
-
-🎓 **Elementary Education**  
-Afyon Kocatepe University
-
-🎓 **Computer Engineering** *(Former)*  
-Kocaeli University
-
----
 
 # 📈 GitHub Stats
 
@@ -135,12 +122,12 @@ Kocaeli University
 
 ---
 
-# 📫 Contact
+# 📫 İletişim
 
 📧 **Email**
 > gemremurat@gmail.com
 
-🌐 **Portfolio**
+🌐 **Portfolyo**
 > https://fizyoniktv.github.io
 
 💻 **GitHub**
@@ -150,8 +137,8 @@ Kocaeli University
 
 <div align="center">
 
-### "Building software that makes technology smarter and education better."
+### "Teknolojiyi akıllandıran, eğitimi güçlendiren yazılımlar inşa ediyorum."
 
-⭐ Thanks for visiting my profile!
+⭐ Profilimi ziyaret ettiğiniz için teşekkür ederim.
 
 </div>
