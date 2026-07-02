@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emre Murat Girgin | Portfolyo</title>
+    
+    <!-- Modern Tipografi (Inter Font) -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- Üst Menü -->
+    <header id="navbar">
+        <div class="logo" onclick="window.scrollTo(0,0)">Eon<span>Jinwoo</span></div>
+
+        <div class="menu-toggle" id="mobile-menu">
+            <i class="fa-solid fa-bars"></i>
+        </div>
+
+        <nav>
+            <a href="#hakkimda">Hakkımda</a>
+            <a href="#yetenekler">Yetenekler</a>
+            <a href="#projeler">Projeler</a>
+            <a href="#iletisim">İletişim</a>
+        </nav>
+    </header>
+    
+    <!-- Ana Ekran (Hero) -->
+    <section class="hero" id="hakkimda">
+        <div class="hero-content hidden">
+            <p class="greeting">👋 Merhaba, ben</p>
+            <h1>Emre Murat Girgin</h1>
+            <h2 class="typewriter-text"></h2>
+            <p class="bio">Pedagojik altyapımı modern yazılım mimarisiyle harmanlıyor; web, mobil ve masaüstü platformlarında yapay zeka destekli teknolojiler ve akıllı otomasyon sistemleri inşa ediyorum. <br> Yalnızca eğitim teknolojileri değil, verdiğiniz bilgiler dahilinde herhangi bir konuda yardımcı olabilirim.</p>
+            
+            <div class="hero-buttons">
+                <a href="#projeler" class="btn btn-primary">Projelerimi İncele</a>
+                <a href="#iletisim" class="btn btn-secondary">İletişime Geç</a>
+            </div>
+        </div>
+
+        <div class="hero-image hidden" style="--delay: 2">
+            <!-- Buraya kendi profesyonel fotoğrafının linkini koyabilirsin -->
+            <img src="https://images.unsplash.com/photo-1549692520-acc6669e2f0c?q=80&w=600&auto=format&fit=crop" alt="Emre Murat Girgin">
+            <div class="experience-badge">
+                <i class="fa-solid fa-code"></i> Geliştirici & Eğitimci
+            </div>
+        </div>
+    </section>
+
+    <!-- Yetenekler -->
+    <section id="yetenekler" class="bg-light">
+        <div class="section-header hidden">
+            <h2>Teknoloji Yığınım</h2>
+            <p>Modern sistemler inşa etmek için kullandığım temel araçlar ve diller.</p>
+        </div>
+        <div class="skills-grid hidden">
+            <div class="skill-box" style="--delay: 1">
+                <i class="fa-brands fa-python"></i>
+                <h3>Python</h3>
+            </div>
+            <div class="skill-box" style="--delay: 2">
+                <i class="fa-brands fa-php"></i>
+                <h3>PHP & XAMPP</h3>
+            </div>
+            <div class="skill-box" style="--delay: 3">
+                <i class="fa-solid fa-c"></i>
+                <h3>C#</h3>
+            </div>
+            <div class="skill-box" style="--delay: 4">
+                <i class="fa-brands fa-unity"></i>
+                <h3>Unity & Netcode</h3>
+            </div>
+            <div class="skill-box" style="--delay: 5">
+                <i class="fa-solid fa-microchip"></i>
+                <h3>Donanım & Sistem</h3>
+            </div>
+            <div class="skill-box" style="--delay: 6">
+                <i class="fa-brands fa-html5"></i>
+                <h3>HTML / CSS / JS</h3>
+            </div>
+        </div>
+    </section>
+
+<!-- Projeler -->
+    <section id="projeler">
+        <div class="section-header hidden">
+            <h2>Öne Çıkan Projeler</h2>
+            <p>Geliştirdiğim sistemler, e-ticaret altyapıları ve mobil uygulamalar.</p>
+        </div>
+        <div class="projects-gallery">
+            
+            <!-- Proje 1: İlkayy LMS -->
+            <div class="project-card hidden" style="--delay: 1">
+                <div class="project-image">
+                    <img src="https://images.unsplash.com/photo-1501504905252-473c47e087f8?q=80&w=600&auto=format&fit=crop" alt="İlkayy LMS Görseli">
+                    <div class="project-overlay">
+                        <a href="https://www.ilkayy.com/" target="_blank" class="btn-circle"><i class="fa-solid fa-link"></i></a>
+                    </div>
+                </div>
+                <div class="project-content">
+                    <div class="project-meta">Eğitim Teknolojileri</div>
+                    <h3><i class="fa-solid fa-graduation-cap"></i> İlkay LMS & Website </h3>
+                    <p>Modern eğitim ihtiyaçlarına yönelik tasarlanmış, kapsamlı bir Öğrenim Yönetim Sistemi (LMS). Gelişmiş altyapısı ile dijital eğitimi kolaylaştırır.</p>
+                </div>
+            </div>
+
+            <!-- Proje 2: IBENENG -->
+            <div class="project-card hidden" style="--delay: 2">
+                <div class="project-image">
+                    <img src="https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=600&auto=format&fit=crop" alt="IBENENG Görseli">
+                    <div class="project-overlay">
+                        <a href="https://play.google.com/store/apps/details?id=com.IlkayGroup.com.ibeneng&hl=tr" target="_blank" class="btn-circle"><i class="fa-brands fa-google-play"></i></a>
+                    </div>
+                </div>
+                <div class="project-content">
+                    <div class="project-meta">Mobil Uygulama</div>
+                    <h3><i class="fa-solid fa-mobile-screen"></i> IBen English</h3>
+                    <p>Android platformu için geliştirilmiş, kullanıcı dostu arayüze sahip modern mobil uygulama tasarımı.</p>
+                </div>
+            </div>
+
+            <!-- Proje 3: Odenys -->
+            <div class="project-card hidden" style="--delay: 3">
+                <div class="project-image">
+                    <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=600&auto=format&fit=crop" alt="Odenys E-Ticaret">
+                </div>
+                <div class="project-content">
+                    <div class="project-meta">Müşteri Projesi</div>
+                    <h3><i class="fa-solid fa-store"></i> Odenys Website</h3>
+                    <p>Müşteri talepleri doğrultusunda özel olarak kodlanan, kapsamlı filtreleme özelliklerine ve dinamik yönetici paneline sahip gelişmiş e-ticaret platformu.</p>
+                </div>
+            </div>
+
+            <!-- Proje 4: Discord Botları -->
+            <div class="project-card hidden" style="--delay: 4">
+                <div class="project-image">
+                    <img src="https://images.unsplash.com/photo-1614680376739-414d95ff43df?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Discord Botları">
+                </div>
+                <div class="project-content">
+                    <div class="project-meta">Araçlar & Otomasyon</div>
+                    <h3><i class="fa-brands fa-discord"></i> Discord Sistemleri</h3>
+                    <p>Sunucu yönetimi, özel ekonomi mekanikleri, moderasyon ve otomasyon süreçleri için geliştirilmiş çeşitli Discord botu sistemleri.</p>
+                </div>
+            </div>
+
+            <!-- Proje 5: Lunaris AI Öğrenci Koçu -->
+            <div class="project-card hidden" style="--delay: 5">
+                <div class="project-image">
+                    <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=600&auto=format&fit=crop" alt="Lunaris AI">
+                </div>
+                <div class="project-content">
+                    <div class="project-meta">Yapay Zeka & Eğitim</div>
+                    <h3><i class="fa-solid fa-brain"></i> Lunaris AI</h3>
+                    <p>Öğrencilerin akademik gelişimlerini takip eden, modern yapay zeka teknolojilerini pedagojik yaklaşımlarla harmanlayarak kişiselleştirilmiş rehberlik sunan akıllı mobil öğrenci koçu uygulaması.</p>
+                </div>
+            </div>
+
+            <!-- Proje 6: SmartWrite (TEKNOFEST) -->
+            <div class="project-card hidden" style="--delay: 6">
+                <div class="project-image">
+                    <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=600&auto=format&fit=crop" alt="SmartWrite TEKNOFEST">
+                </div>
+                <div class="project-content">
+                    <div class="project-meta">Eğitim Teknolojileri</div>
+                    <h3><i class="fa-solid fa-award"></i> SmartWrite</h3>
+                    <p>TEKNOFEST 2025 Eğitim Teknolojileri kategorisi için geliştirilen, teknoloji ve eğitimi bir araya getiren yenilikçi takım projesi.</p>
+                </div>
+            </div>
+
+            <!-- Proje 7: LunarisAgent -->
+            <div class="project-card hidden" style="--delay: 7">
+                <div class="project-image">
+                    <img src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?q=80&w=600&auto=format&fit=crop" alt="LunarisAgent Masaüstü Asistanı">
+                </div>
+                <div class="project-content">
+                    <div class="project-meta">Masaüstü Uygulama & Yapay Zeka</div>
+                    <h3><i class="fa-solid fa-desktop"></i> LunarisAgent</h3>
+                    <p>Python ile geliştirilmiş, özel "uyanma kelimesi" (wake-word) entegrasyonuna sahip, kişiselleştirilebilir masaüstü yapay zeka asistanı uygulaması.</p>
+                </div>
+            </div>
+
+            <!-- Proje 8: Tarım E-Ticaret Sitesi -->
+            <div class="project-card hidden" style="--delay: 8">
+                <div class="project-image">
+                    <img src="https://images.unsplash.com/photo-1586771107445-d3ca888129ff?q=80&w=600&auto=format&fit=crop" alt="Tarım E-Ticaret Platformu">
+                </div>
+                <div class="project-content">
+                    <div class="project-meta">Web Geliştirme</div>
+                    <h3><i class="fa-solid fa-seedling"></i> Tarım E-Ticaret Platformu</h3>
+                    <p>PHP ve XAMPP altyapısıyla sıfırdan inşa edilen, detaylı kategori filtreleme özelliklerine ve özel yönetici paneline sahip e-ticaret sitesi.</p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- İstatistikler (Counters) -->
+    <section id="istatistikler" class="bg-light">
+        <div class="counter-wrapper hidden">
+            <div class="counter-box">
+                <div class="counter-number" data-target="15">0</div>
+                <div class="counter-text">Tamamlanan Proje</div>
+            </div>
+            <div class="counter-box">
+                <div class="counter-number" data-target="2500">0</div>
+                <div class="counter-text">Saat Kodlama</div>
+            </div>
+            <div class="counter-box">
+                <div class="counter-number" data-target="8">0</div>
+                <div class="counter-text">Geliştirilen Sistem/Bot</div>
+            </div>
+            <div class="counter-box">
+                <div class="counter-number" data-target="4">0</div>
+                <div class="counter-text">Yıl Tecrübe</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Eğitim ve Kariyer Yolculuğu -->
+    <section id="egitim">
+        <div class="section-header hidden">
+            <h2>Eğitim Yolculuğum</h2>
+            <p>Mühendislik temellerinden eğitim bilimlerine uzanan ve yüksek lisansla taçlanan akademik serüvenim.</p>
+        </div>
+        <div class="timeline hidden">
+            
+            <div class="timeline-item">
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <div class="timeline-date">2026 - Günümüz</div>
+                    <h3>Gazi Üniversitesi</h3>
+                    <p>Eğitim Teknolojileri (Yüksek Lisans)</p>
+                </div>
+            </div>
+
+            <div class="timeline-item">
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <div class="timeline-date">2023 - 2026</div>
+                    <h3>Afyon Kocatepe Üniversitesi</h3>
+                    <p>Sınıf Öğretmenliği (Mezuniyet)</p>
+                </div>
+            </div>
+
+            <div class="timeline-item">
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <div class="timeline-date">2022 - 2023</div>
+                    <h3>Kocaeli Üniversitesi</h3>
+                    <p>Sınıf Öğretmenliği (Yatay Geçiş)</p>
+                </div>
+            </div>
+
+            <div class="timeline-item">
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <div class="timeline-date">2020 - 2021</div>
+                    <h3>Kocaeli Üniversitesi</h3>
+                    <p>Bilgisayar Mühendisliği (Bana bir bilgi katmadığı için bıraktım.)</p>
+                </div>
+            </div>
+
+            <div class="timeline-item">
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <div class="timeline-date">2016 - 2020</div>
+                    <h3>Uşak Fen Lisesi</h3>
+                    <p>Lise Eğitimi</p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Hizmetler -->
+    <section id="hizmetler" class="bg-light">
+        <div class="section-header hidden">
+            <h2>Neler Yapıyorum?</h2>
+            <p>Teknik bilgi birikimimi ve pedagojik altyapımı kullanarak sunduğum profesyonel çözümler.</p>
+        </div>
+        <div class="services-grid hidden">
+            <div class="service-card" style="--delay: 1">
+                <i class="fa-solid fa-code"></i>
+                <h3>Özel Yazılım & Web Geliştirme</h3>
+                <p>Müşteri ihtiyaçlarına yönelik, sıfırdan kodlanmış performanslı web siteleri (Odenys vb.), dinamik e-ticaret platformları ve yönetim panelleri inşa ediyorum.</p>
+            </div>
+            <div class="service-card" style="--delay: 2">
+                <i class="fa-solid fa-chalkboard-user"></i>
+                <h3>Eğitim Teknolojileri & Özel Ders</h3>
+                <p>Dijital dönüşüm süreçlerine uygun LMS altyapıları kuruyor; düzenli planlamalarla (haftalık rutinler) akademik rehberlik, teknoloji entegrasyonu ve özel ders hizmeti sunuyorum.</p>
+            </div>
+            <div class="service-card" style="--delay: 3">
+                <i class="fa-solid fa-robot"></i>
+                <h3>Yapay Zeka & Otomasyon</h3>
+                <p>Süreçleri hızlandırmak için kurumlara veya sunuculara özel; yapay zeka asistanları, akıllı otomasyon araçları, internet siteleri ve Android uygulamalarıgeliştiriyorum.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Çalışma Ortamı (Setup) -->
+    <section id="donanim">
+        <div class="section-header hidden">
+            <h2>Çalışma Ortamım & Ekipmanlar</h2>
+            <p>Yüksek performanslı geliştirme ve oyun optimizasyon süreçleri için tercih ettiğim donanım ve yazılım ekosistemi.</p>
+        </div>
+        <div class="setup-container hidden">
+            <div class="setup-card">
+                <h3><i class="fa-solid fa-microchip"></i> Donanım (AM5 Platformu)</h3>
+                <ul>
+                    <li><strong>İşlemci:</strong> AMD Ryzen 7 9800X3D</li>
+                    <li><strong>Ekran Kartı:</strong> 16 GB 9070 XT</li>
+                    <li><strong>Anakart:</strong> B650M Wi-Fi Serisi</li>
+                    <li><strong>Bellek (RAM):</strong> 32 GB (16x2) DDR5 6000MHz</li>
+                </ul>
+            </div>
+            <div class="setup-card">
+                <h3><i class="fa-solid fa-laptop-code"></i> Geliştirme Araçları</h3>
+                <ul>
+                    <li><strong>Ana IDE (C# & Unity):</strong> Visual Studio</li>
+                    <li><strong>Editör (Web & Python):</strong> Visual Studio Code</li>
+                    <li><strong>Veritabanı & Sunucu:</strong> XAMPP / MySQL</li>
+                    <li><strong>Versiyon Kontrol:</strong> Git & GitHub</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sıkça Sorulan Sorular (FAQ) -->
+    <section id="sss" class="bg-light">
+        <div class="section-header hidden">
+            <h2>Sıkça Sorulan Sorular</h2>
+            <p>Hakkımda veya çalışma stilimle ilgili en çok merak edilenler.</p>
+        </div>
+        <div class="faq-container hidden">
+            <details class="faq-item">
+                <summary>Hangi teknolojileri ve dilleri kullanıyorsun?</summary>
+                <div class="faq-content">
+                    Ağırlıklı olarak Python, C# (Unity), PHP, HTML, CSS ve JavaScript kullanıyorum. Ayrıca donanım optimizasyonu, Windows sistem yapılandırmaları ve BIOS ayarları konularında da teknik uzmanlığa sahibim.
+                </div>
+            </details>
+            <details class="faq-item">
+                <summary>Freelance (Serbest Zamanlı) proje alıyor musun?</summary>
+                <div class="faq-content">
+                    Evet, müsaitlik durumuma göre özel yazılım, web sitesi veya bot projeleri alıyorum. İletişim bölümünden detayları görüşmek için mail atabilirsin.
+                </div>
+            </details>
+            <details class="faq-item">
+                <summary>Özel ders veya danışmanlık veriyor musun?</summary>
+                <div class="faq-content">
+                    Kesinlikle. Sınıf öğretmenliği altyapımın getirdiği pedagojik formasyonla, teknoloji/yazılım mentörlüğü ve belirli günlerde akademik özel dersler veriyorum.
+                </div>
+            </details>
+        </div>
+    </section>
+
+    <!-- İletişim -->
+    <section class="contact bg-light" id="iletisim">
+        <div class="contact-card hidden">
+            <h2>İletişime Geç</h2>
+            <p>Projelerimi incelemek veya ortak bir fikir üzerine konuşmak için bana ulaşabilirsin.</p>
+            <div class="social-links">
+                <a href="https://github.com/FizyonikTV" target="_blank" class="btn btn-secondary"><i class="fa-brands fa-github"></i> GitHub Profilim</a>
+                <a href="mailto:gemremurat@gmail.com" class="btn btn-primary"><i class="fa-solid fa-envelope"></i> E-Posta Gönder</a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 | FizyonikTV | Tüm hakları saklıdır.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
