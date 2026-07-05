@@ -128,7 +128,7 @@ Büyük ölçekli moderasyon, ekonomi ve otomasyon botları.
 > gemremurat@gmail.com
 
 🌐 **Portfolyo**
-> https://fizyoniktv.github.io
+> https://fizyoniktv.github.io/FizyonikTV
 
 💻 **GitHub**
 > https://github.com/FizyonikTV
