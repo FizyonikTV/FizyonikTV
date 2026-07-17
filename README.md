@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://fizyoniktv.github.io">
+<a href="https://fizyoniktv.github.io/FizyonikTV">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
